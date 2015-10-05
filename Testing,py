@@ -1,0 +1,9 @@
+x = 2
+y = 1
+
+print ("this is a test")
+
+if (x>y):
+ 	print ("yaaaaay")
+else:
+	print ("laaame")
